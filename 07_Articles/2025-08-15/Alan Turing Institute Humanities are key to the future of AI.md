@@ -10,7 +10,7 @@ tags: [summary, auto, AI, humanities, interpretive]
 # Alan Turing Institute: Humanities are key to the future of AI
 
 ## ① 概要
-Alan Turing Instituteを中心とした研究チームが「Doing AI Differently」イニシアチブを開始。現在のAIは化的アーティファクトを生み出しているが、文脈理解が不足している問題を指摘。Interpretive AIという新しいアプローチで、人間中心のAI開発を目指す。英国・カナダの研究者を集文めた国際資金調達も開始予定。
+Alan Turing Instituteを中心とした研究チームが「Doing AI Differently」イニシアチブを開始。現在のAIは文化的アーティファクトを生み出しているが、文脈理解が不足している問題を指摘。Interpretive AIという新しいアプローチで、人間中心のAI開発を目指す。英国・カナダの研究者を集文めた国際資金調達も開始予定。
 
 ## ② 詳細
 現在のAI開発は数学的問題として扱われているが、実際には小説や絵画のような文化的産物を生み出している。しかし、AIはその「文化」を理解せず、辞書を暗記したが会話ができない状態に陥っている。これにより、ニュアンスや文脈が重要な場面で失敗が発生。さらに、世界のAIの大半が少数の類似設計に基づいており、「均質化問題」を引き起こしている。この問題を解決するため、Interpretive AIという新しいAIアーキテクチャを提案。曖昧性、多様な視点、深い文脈理解を持つシステムを設計し、人間とAIが協働する「人間-AIアンサンブル」の実現を目指している。
